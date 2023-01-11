@@ -22,7 +22,15 @@ Senior Logistics Manager | Data Scientist
 E-mail: [Justin.Ellis.Evans@gmail.com](mailto:justin.Ellis.Evans@gmail.com)  
 Cell: (785) 317-5707  
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
+              
+              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
+                            
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
+
 
 # Skills
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
