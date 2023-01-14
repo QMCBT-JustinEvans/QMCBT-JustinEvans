@@ -1,19 +1,14 @@
 <!--
 **QMCBT-JustinEvans/QMCBT-JustinEvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 # About Me
 Career Army Veteran with a diverse background in Acquisition, Divestiture, Inventory and Logistics Management. Proven leader capable of communicating and coordinating seamlessly between end users and senior executives to manage teams and accomplish large scale projects.  I have a strong desire to affect long lasting change in my organization through data collection and analysis by developing and implementing directives and policies to improve processes and procedures.  I recognize the benefits of data analysis in the decision making process as information is transformed to knowledge and applied with wisdom. Ready to augment my domain knowledge with the skills of being a data scientist. 
+
+<p align="center">
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge%20is%20Power.;Knowing%20everything%20does%20NOT%20make%20you%20Powerful!;It%20makes%20you%20a%20'Know%20It%20All'.;Sharing%20your%20Knowledge,;Makes%20you%20a...;-MENTOR-;-TRAINER-;-ADVISOR-;With%20great%20Knowledge,%20comes%20great%20Power.;With%20great%20Power,%20comes%20great%20Responsibility!&font=Fira%20Code&center=true&width=1080&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 # Contact
 
@@ -21,16 +16,6 @@ Justin Evans
 Senior Logistics Manager | Data Scientist  
 E-mail: [Justin.Ellis.Evans@gmail.com](mailto:justin.Ellis.Evans@gmail.com)  
 Cell: (785) 317-5707  
-
-<!--
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
-              
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
--->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 
@@ -46,6 +31,9 @@ Cell: (785) 317-5707
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QMCBT-JustinEvans)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-QMCBT-JustinEvans&color=66CDEB)
+
 
 # Skills
 
@@ -71,3 +59,18 @@ Cell: (785) 317-5707
 ![GCSS-A](https://img.shields.io/badge/-GCSSA-green?style=flat-square&logo=GCSS-A) 
 ![Vantage](https://img.shields.io/badge/-Vantage-green?style=flat-square&logo=Vantage) 
 
+# Codeup 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+<p align="left">
+  <a href="https://github.com/Social-Media-Capstone/Social-Media-Engagement-Forecasting"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Social-Media-Capstone&repo=Social-Media-Engagement-Forecasting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Social-Media-Engagement-Forecasting"></a>
+  <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
+  <a href="https://github.com/m3redithw/Potato-Disease-Image-Classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Potato-Disease-Image-Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Image-Classification"></a>
+  <a href="https://github.com/MBM-nlp/github_classification_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MBM-nlp&repo=github_classification_project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="The-Metaverse"></a>
+  <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
+  <a href="https://github.com/m3redithw/Zestimates-Clustering-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Zestimates-Clustering-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
+  <a href="https://github.com/m3redithw/Home-Value-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Home-Value-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Home-Value-Prediction"></a>
+  <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
+  
+
+<p align="left">
+  <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
