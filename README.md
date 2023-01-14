@@ -22,6 +22,7 @@ Senior Logistics Manager | Data Scientist
 E-mail: [Justin.Ellis.Evans@gmail.com](mailto:justin.Ellis.Evans@gmail.com)  
 Cell: (785) 317-5707  
 
+<!--
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
@@ -29,18 +30,24 @@ Cell: (785) 317-5707
               
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="qmcbt" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qmcbt?trk=profile-badge">Justin Evans</a></div>
+-->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 
 
+# GitHub Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
+</tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QMCBT-JustinEvans)
+
 # Skills
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-#### 
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql)
-![Canva](https://img.shields.io/badge/-Canva-black?style=for-the-badge&logo=Canva)
-
 
 #### Data Science
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -64,38 +71,3 @@ Cell: (785) 317-5707
 ![GCSS-A](https://img.shields.io/badge/-GCSSA-green?style=flat-square&logo=GCSS-A) 
 ![Vantage](https://img.shields.io/badge/-Vantage-green?style=flat-square&logo=Vantage) 
 
-#### Working Draft
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-</p>
-
-## GitHub Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&locale=en" alt="QMCBT-JustinEvans" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" /></td>
-</tr>
-</table>
-
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&theme=prussian&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&hide=TeX&layout=compact&theme=prussian)
--->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QMCBT-JustinEvans)
