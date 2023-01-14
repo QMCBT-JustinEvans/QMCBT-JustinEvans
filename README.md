@@ -66,12 +66,14 @@ Cell: (785) 317-5707
   <a href="https://github.com/QMCBT-JustinEvans/project-2_zillow"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-2_zillow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-2_zillow"></a>
   <a href="https://github.com/QMCBT-JustinEvans/project-4_Individual"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-4_Individual&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-4_Individual"></a>
 
+<!--
   <a href="https://github.com/MBM-nlp/github_classification_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MBM-nlp&repo=github_classification_project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="The-Metaverse"></a>
   <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
   <a href="https://github.com/m3redithw/Zestimates-Clustering-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Zestimates-Clustering-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
 
   <a href="https://github.com/m3redithw/Home-Value-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Home-Value-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Home-Value-Prediction"></a>
   <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
+-->
 
 <p align="left">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
