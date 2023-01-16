@@ -12,13 +12,13 @@ Career Army Veteran with a diverse background in Acquisition, Divestiture, Inven
 
 # Contact
 
-Justin Evans
+Justin Evans  
 Senior Logistics Manager | Data Scientist  
-E-mail: [Justin.Ellis.Evans@gmail.com](mailto:justin.Ellis.Evans@gmail.com)  
 Cell: (785) 317-5707  
 
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.Ellis.Evans@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QMCBT-JustinEvans)
 
 # GitHub Stats
 
