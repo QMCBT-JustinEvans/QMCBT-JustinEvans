@@ -62,17 +62,20 @@ Cell: (785) 317-5707
 # Codeup 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <p align="left">
 
-### Individual Projects
+### Individual Projects:
   <a href="https://github.com/QMCBT-JustinEvans/project-1_telco"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-1_telco&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-1_telco"></a>
   <a href="https://github.com/QMCBT-JustinEvans/project-2_zillow"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-2_zillow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-2_zillow"></a>
   <a href="https://github.com/QMCBT-JustinEvans/project-4_Individual"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-4_Individual&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-4_Individual"></a>
 
-### Group Projects
+### Group Projects:
   <a href="https://github.com/Codeup-Justin-Evans-Yvette-Ibarra/project_zillow_team"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Justin-Evans-Yvette-Ibarra&repo=project_zillow_team&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project_zillow_team"></a>
-<!--
-  <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
-  <a href="https://github.com/m3redithw/Zestimates-Clustering-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Zestimates-Clustering-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
+  <a href="https://github.com/Codeup-Mirzakhani-Group1-Project/project-5_anomaly_detection"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-Project&repo=project-5_anomaly_detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Anomaly-Detection-Project"></a>
+  <a href="https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-NLP-Project&repo=Codeup-Mirzakhani-GitHub-Scrape-NLP-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Zestimates-Clustering-Project"></a>
 
+### Personal Projects:
+* Comming Soon to a GitHub near you!
+
+<!--
   <a href="https://github.com/m3redithw/Home-Value-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Home-Value-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Home-Value-Prediction"></a>
   <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
 -->
