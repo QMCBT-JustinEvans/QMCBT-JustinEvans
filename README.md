@@ -62,6 +62,17 @@ Cell: (785) 317-5707
 # Codeup 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <details open="">
+<summary>👀 <b>See my Group Projects:</b></summary><br>
+  <a href="https://github.com/Codeup-Justin-Evans-Yvette-Ibarra/project_zillow_team"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Justin-Evans-Yvette-Ibarra&repo=project_zillow_team&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project_zillow_team">
+  </a>
+  <a href="https://github.com/Codeup-Mirzakhani-Group1-Project/project-5_anomaly_detection"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-Project&repo=project-5_anomaly_detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Anomaly-Detection-Project">  </a>
+  <a href="https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-NLP-Project&repo=Codeup-Mirzakhani-GitHub-Scrape-NLP-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Zestimates-Clustering-Project">
+  </a>
+  <a href="https://github.com/CodeupGourmands/Michelin_NLP_Capstone"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CodeupGourmands&repo=Michelin_NLP_Capstone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Michelin_NLP_Capstone">
+  </a>
+</details>
+
+<details open="">
 <summary>👀 <b>See my Individual Projects:</b></summary><br>
 <p align="left">
   <a href="https://github.com/QMCBT-JustinEvans/project-1_telco"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-1_telco&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-1_telco"></a>
@@ -69,14 +80,7 @@ Cell: (785) 317-5707
   <a href="https://github.com/QMCBT-JustinEvans/project-4_Individual"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=QMCBT-JustinEvans&repo=project-4_Individual&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project-4_Individual"></a>
 </details>
 
-<details open="">
-<summary>👀 <b>See my Group Projects:</b></summary><br>
-  <a href="https://github.com/Codeup-Justin-Evans-Yvette-Ibarra/project_zillow_team"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Justin-Evans-Yvette-Ibarra&repo=project_zillow_team&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="project_zillow_team"></a>
-  <a href="https://github.com/Codeup-Mirzakhani-Group1-Project/project-5_anomaly_detection"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-Project&repo=project-5_anomaly_detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Anomaly-Detection-Project"></a>
-  <a href="https://github.com/Codeup-Mirzakhani-Group1-NLP-Project/Codeup-Mirzakhani-GitHub-Scrape-NLP-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Codeup-Mirzakhani-Group1-NLP-Project&repo=Codeup-Mirzakhani-GitHub-Scrape-NLP-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Zestimates-Clustering-Project"></a>
-</details>
-
-<details open="">
+<details>
 <summary>👀 <b>See my Personal Projects:</b></summary><br>
 * Comming Soon to a GitHub near you!
 </details>
