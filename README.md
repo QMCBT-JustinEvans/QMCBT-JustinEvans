@@ -10,7 +10,7 @@ Career Army Veteran with a diverse background in Acquisition, Divestiture, Inven
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Knowledge%20is%20Power.;Knowing%20everything%20does%20NOT%20make%20you%20Powerful!;It%20makes%20you%20a%20'Know%20It%20All'.;Sharing%20your%20Knowledge,;Makes%20you%20a...;-MENTOR-;-TRAINER-;-ADVISOR-;With%20great%20Knowledge,%20comes%20great%20Power.;With%20great%20Power,%20comes%20great%20Responsibility!&font=Fira%20Code&center=true&width=1080&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-# Contact
+# Connect with Me
 
 Justin Evans  
 Senior Logistics Manager | Data Scientist  
@@ -19,6 +19,7 @@ Cell: (785) 317-5707
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.Ellis.Evans@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QMCBT-JustinEvans)
+[![Codeup Alumni](https://img.shields.io/badge/Codeup%20Alumni-green?style=for-the-badge&logo=codeup&logoColor=white)](https://alumni.codeup.com/students/1725)
 
 # GitHub Stats
 
