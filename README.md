@@ -35,9 +35,11 @@ Cell: (785) 317-5707
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-QMCBT-JustinEvans&color=66CDEB)
 
+<!--
 # LinkedIn Stats
 
-
+![my_Prfile Grade](https://photofeeler-photos.s3.amazonaws.com/tri/riwcc3gr65fc0qgz.jpg)
+-->
       
 # Skills
 
