@@ -69,7 +69,7 @@ Cell: (785) 317-5707
 ![GCSS-A](https://img.shields.io/badge/-GCSSA-green?style=flat-square&logo=GCSS-A) 
 ![Vantage](https://img.shields.io/badge/-Vantage-green?style=flat-square&logo=Vantage) 
 
-# Codeup 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+# 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <details open="">
 <summary>👀 <b>See my Group Projects:</b></summary><br>
