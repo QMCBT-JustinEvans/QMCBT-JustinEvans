@@ -31,6 +31,15 @@ Cell: (785) 317-5707
 </tr>
 </table>
 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&theme=codeSTACKr&show_icons=true" alt="QMCBT-JustinEvans" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com?user=QMCBT-JustinEvans&theme=dark&border_radius=4.7&mode=weekly" alt="QMCBT-JustinEvans" /></td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" />
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=QMCBT-JustinEvans)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-QMCBT-JustinEvans&color=66CDEB)
