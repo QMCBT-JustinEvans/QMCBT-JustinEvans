@@ -41,9 +41,15 @@ Cell: (785) 317-5707
 <!--[Profile Views]-->
 <img src="https://komarev.com/ghpvc/?username=your-github-QMCBT-JustinEvans&color=66CDEB">
 
-<tr><td>  
+<tr>
+<td>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans">
-</td></tr>
+</td>
+
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QMCBT-JustinEvans&" alt="QMCBT-JustinEvans" />
+</td>  
+</tr>
 
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=QMCBT-JustinEvans&theme=codeSTACKr&show_icons=true" alt="QMCBT-JustinEvans" />
