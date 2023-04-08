@@ -57,13 +57,13 @@ Cell: (785) 317-5707
 
 
 <!--
--->
+
 # LinkedIn Stats
 
 # Photo Score
 <img src="https://photofeeler-photos.s3.amazonaws.com/tri/riwcc3gr65fc0qgz.jpg" alt="my Profile Grade" width="500" height="500">
 
-
+-->
       
 # Skills
 
