@@ -19,7 +19,7 @@ Cell: (785) 317-5707
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.Ellis.Evans@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qmcbt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QMCBT-JustinEvans)
-[![Codeup Alumni](https://img.shields.io/badge/Codeup%20Alumni-green?style=for-the-badge&logo=codeup&logoColor=white)](https://alumni.codeup.com/students/1725)
+[![Codeup Alumni](https://img.shields.io/badge/Codeup%20Alumni-green?style=for-the-badge&logo=codeup&logoColor=white)](https://alumni.codeup.com/candidate/justin-evans/)
 
 # GitHub Stats
 
